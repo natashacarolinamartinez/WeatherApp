@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.1.0)
+  - DeviceKit (1.0.0)
+  - SwiftSpinner (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - DeviceKit (~> 1.0)
+  - SwiftSpinner
+
+SPEC CHECKSUMS:
+  Alamofire: e266cf991b933498df791e645e0d8ac294492153
+  DeviceKit: ddead7f3a7c9603ba3a63cb748566428c38dd11f
+  SwiftSpinner: c03815614599b91eea46594bd52ba742849d0414
+
+PODFILE CHECKSUM: 8296f48d03392c616def43dc59a9c2d2d5e32af2
+
+COCOAPODS: 1.4.0
